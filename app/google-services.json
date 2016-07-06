@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "1053452570569",
+    "firebase_url": "https://petagram-6a09f.firebaseio.com",
+    "project_id": "petagram-6a09f",
+    "storage_bucket": "petagram-6a09f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1053452570569:android:12da4a80be9f7334",
+        "android_client_info": {
+          "package_name": "com.aldomora.misnotificiaciones"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1053452570569-s35vhns1upovcvjsddin41ntj5dpq8bm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBokuZRzvm4Ug9W8qBaT77_XpvzjwpYsSk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

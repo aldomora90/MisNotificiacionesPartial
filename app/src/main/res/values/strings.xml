@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">MisNotificiaciones</string>
+    <string name="buttonText">Recibir notificaciones</string>
+</resources>
